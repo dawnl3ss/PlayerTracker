@@ -1,0 +1,8 @@
+name: PlayerTracker
+author: Neptune
+version: 1.0.0
+description: "Pocketmine-MP plugin for track a player"
+main: Neptune\Tracker\Main
+api:
+  - 3.0.0
+  - 4.0.0
